@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rengolion
+- 👋 Hi, I’m @NkCodes
 - 👀 I’m interested in ...Software engineering
 - 🌱 I’m currently learning ...HTML CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...NFTS and Web Development
